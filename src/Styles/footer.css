@@ -1,0 +1,22 @@
+.footer{
+    padding: 70px 0;
+    background-color: #eee;
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.email{
+    color: #a7a7a7;
+    text-decoration: none;
+    transition: all 0.5s ease;
+}
+
+.email:hover{
+    color: #000;
+}
+
+.span{
+    font-size: 12px;
+}

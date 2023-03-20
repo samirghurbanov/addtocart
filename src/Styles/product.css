@@ -1,0 +1,16 @@
+.text{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.alertt{
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    color: #Fff;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+h5{
+    color: rgb(154, 152, 152);
+}
